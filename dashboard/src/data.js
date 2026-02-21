@@ -1,0 +1,17 @@
+export const RAW_DATA = [
+  { id: 1, name: 'Tech Corp', region: 'North America', status: 'Win', leadDate: '2025-01-10', oppDate: '2025-01-15', winDate: '2025-02-01', value: 50000 },
+  { id: 2, name: 'Global Soft', region: 'Europe', status: 'Win', leadDate: '2025-01-12', oppDate: '2025-01-20', winDate: '2025-02-05', value: 75000 },
+  { id: 3, name: 'Data Systems', region: 'Asia', status: 'Opportunity', leadDate: '2025-01-15', oppDate: '2025-01-25', winDate: null, value: 30000 },
+  { id: 4, name: 'Innovate LLC', region: 'North America', status: 'Opportunity', leadDate: '2025-01-18', oppDate: '2025-02-01', winDate: null, value: 25000 },
+  { id: 5, name: 'Smart Solutions', region: 'Europe', status: 'Lead', leadDate: '2025-02-01', oppDate: null, winDate: null, value: 15000 },
+  { id: 6, name: 'Future Tech', region: 'Asia', status: 'Lost', leadDate: '2025-01-05', oppDate: '2025-01-10', winDate: null, value: 40000 },
+  { id: 7, name: 'Elite Services', region: 'North America', status: 'Win', leadDate: '2025-01-20', oppDate: '2025-01-25', winDate: '2025-02-10', value: 60000 },
+  { id: 8, name: 'Dynamic Inc', region: 'Europe', status: 'Lead', leadDate: '2025-02-05', oppDate: null, winDate: null, value: 20000 },
+  { id: 9, name: 'Nexus Ltd', region: 'Asia', status: 'Win', leadDate: '2025-01-22', oppDate: '2025-02-01', winDate: '2025-02-15', value: 55000 },
+  { id: 10, name: 'Cloud Nine', region: 'North America', status: 'Opportunity', leadDate: '2025-02-01', oppDate: '2025-02-10', winDate: null, value: 35000 },
+  { id: 11, name: 'Apex Corp', region: 'Europe', status: 'Opportunity', leadDate: '2025-02-02', oppDate: '2025-02-12', winDate: null, value: 45000 },
+  { id: 12, name: 'Core Biz', region: 'Asia', status: 'Lead', leadDate: '2025-02-10', oppDate: null, winDate: null, value: 10000 },
+  { id: 13, name: 'Zenith Group', region: 'North America', status: 'Win', leadDate: '2025-01-05', oppDate: '2025-01-12', winDate: '2025-01-25', value: 90000 },
+  { id: 14, name: 'Alpha Parts', region: 'Europe', status: 'Win', leadDate: '2025-01-08', oppDate: '2025-01-18', winDate: '2025-01-30', value: 65000 },
+  { id: 15, name: 'Beta Motors', region: 'Asia', status: 'Opportunity', leadDate: '2025-01-15', oppDate: '2025-01-28', winDate: null, value: 32000 },
+];
