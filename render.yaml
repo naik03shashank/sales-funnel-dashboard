@@ -5,6 +5,3 @@ services:
     buildCommand: npm install && npm run build
     publishDir: dist
     rootContext: dashboard
-    routes:
-      - src: /.*
-        dest: /index.html
