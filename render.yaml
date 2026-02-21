@@ -1,0 +1,10 @@
+services:
+  - type: static
+    name: sales-funnel-dashboard
+    env: static
+    buildCommand: npm install && npm run build
+    publishDir: dist
+    rootContext: dashboard
+    routes:
+      - src: /.*
+        dest: /index.html
